@@ -1,0 +1,76 @@
+$main-color: #21409a;
+$main-color2: white;
+$main-color3: #ed1c24;
+$main-font: 'courier_primeregular';
+
+
+/* BASE */
+h1 {
+font-family:'arial' ;
+
+}
+
+
+/* LAYOUT */
+
+.logo-style {
+	margin-right:1000px;
+}
+	
+
+.align-center {
+	text-align: center;
+	margin: auto;
+}
+
+
+.contact-img {
+  background: url(../img/3-background.jpg) no-repeat bottom center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+
+
+
+
+/* Video EMBed responsive code */
+.responsive-vid {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 60px;
+  overflow: hidden; }
+
+.responsive-vid iframe,
+.responsive-vid object,
+.responsive-vid embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80%;
+  height: 100%; }
+
+/* MODULE */
+/* STATE */
+/* THEME */
+/* FORM */
+input, textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 1px; }
+
+label {
+  margin-bottom: 0px; }
+
+.error {
+  color: blue; }
+
+form {
+  width: 100%; }
+
+
