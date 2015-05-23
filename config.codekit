@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "18966",
+"creatorBuild": "19022",
 "files": {
 	"\/contact.php": {
 		"fileType": 8192,
@@ -692,6 +692,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/entergalatic-express-script-logo-13.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95026,
+		"inputAbbreviatedPath": "\/images\/layout\/entergalatic-express-script-logo-13.png",
+		"outputAbbreviatedPath": "\/images\/layout\/entergalatic-express-script-logo-13.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/fb.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -703,6 +714,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/fb2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/fb2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/fb2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/gp.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -710,6 +732,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/layout\/gp.png",
 		"outputAbbreviatedPath": "\/images\/layout\/gp.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/gp2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/gp2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/gp2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -736,6 +769,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/ship-circle-entergalatic-express-11.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 186341,
+		"inputAbbreviatedPath": "\/images\/layout\/ship-circle-entergalatic-express-11.png",
+		"outputAbbreviatedPath": "\/images\/layout\/ship-circle-entergalatic-express-11.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/yt.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -743,6 +787,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/layout\/yt.png",
 		"outputAbbreviatedPath": "\/images\/layout\/yt.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/yt2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/yt2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/yt2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
